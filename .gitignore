@@ -1,0 +1,3 @@
+mrccleaner.egg-info/*
+dist/*
+*.egg-info
