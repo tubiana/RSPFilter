@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/575487916.svg)](https://zenodo.org/badge/latestdoi/575487916)
+
 # RSPFilter
 Homogeneous filtering of Relion Star Particles File based on two 
 
