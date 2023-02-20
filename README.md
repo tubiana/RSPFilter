@@ -4,8 +4,8 @@
 Homogeneous filtering of Relion Star Particles File based on two 
 
 # Installation
-For now, only PIP is availble. Install RMSPFilter with the command
-`pip install RMPFiler`
+For now, only PIP is availble. Install RSPFilter with the command
+`pip install RSPFilter`
 
 # Dependancies
 - python>=3.8
