@@ -6,8 +6,8 @@ dependencies:
   - pip
   - pip:
     - panel
-    - numpy
-    - pandas
+    - numpy==1.24.0
+    - pandas=1.53
     - scipy
     - starfile
     - plotly
