@@ -7,6 +7,13 @@ Homogeneous filtering of Relion Star Particles File based on two
 For now, only PIP is availble. Install RSPFilter with the command
 `pip install RSPFilter`
 
+```diff
++ NOTE : THERE IS SOME ISSUES WITH PIP INSTALLATION FOR NOW (no executable made), PLEASE CHECK BELLOW HOW TO INSTALL IT
+```
+1. Create a new environment with condas based on the environment.yml file `conda env create -f environment.yml` 
+2. Copy this repository into a folder `git clone https://github.com/tubiana/RSPFilter.git` then `cd RSPFilter`
+3. Install it localy ` pip install -e .`
+
 # Dependancies
 - python>=3.8
 - numpy
