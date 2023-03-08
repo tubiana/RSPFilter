@@ -4,8 +4,7 @@
 Homogeneous filtering of Relion Star Particles File based on two 
 
 # Installation
-For now, only PIP is availble. Install RSPFilter with the command
-`pip install RSPFilter`
+~~For now, only PIP is availble. Install RSPFilter with the command `pip install RSPFilter`~~
 
 ```diff
 - NOTE : THERE IS SOME ISSUES WITH PIP INSTALLATION FOR NOW (no executable made), PLEASE CHECK BELLOW HOW TO INSTALL IT
