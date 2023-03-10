@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/575487916.svg)](https://zenodo.org/badge/latestdoi/575487916)
-
+[![Downloads](https://static.pepy.tech/badge/rspfilter)](https://pepy.tech/project/rspfilter)
+[![Downloads](https://static.pepy.tech/badge/rspfilter/month)](https://pepy.tech/project/rspfilter)
 # RSPFilter
 Homogeneous filtering of Relion Star Particles File based on two 
 
