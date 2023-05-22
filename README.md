@@ -2,7 +2,7 @@
 [![Downloads](https://static.pepy.tech/badge/rspfilter)](https://pepy.tech/project/rspfilter)
 [![Downloads](https://static.pepy.tech/badge/rspfilter/month)](https://pepy.tech/project/rspfilter)
 # RSPFilter
-Homogeneous filtering of Relion Star Particles File based on two 
+Homogeneous filtering of Relion Star Particles File based on two parameters : the rotation angle and the tilt angle (this can be changed in the selection menu)
 
 # Installation
 ~~For now, only PIP is availble. Install RSPFilter with the command `pip install RSPFilter`~~
