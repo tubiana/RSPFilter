@@ -24,7 +24,15 @@ except:
 pn.extension(loading_spinner="dots")
 
 
+
+
 def parse_arg():
+    """
+    Function to parse the command line arguments
+    Returns:
+        - args <dict>: dictionary of all arguments
+    """
+
     parser = argparse.ArgumentParser(
         description="Homogeneous particle filtering of STAR file"
     )
